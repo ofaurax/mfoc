@@ -10,3 +10,8 @@ Lauching mfoc, you will need to pass options, see
 ```
 mfoc -h
 ```
+
+# How to build #
+1. `autoreconf -i`
+2. `./configure`
+3. `make`
